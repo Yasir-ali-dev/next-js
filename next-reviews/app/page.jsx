@@ -8,3 +8,6 @@ export default function HomePage(){
      </React.Fragment>
     )
 }
+
+// * /- about --> hollow night 
+// /- contact us -> dark night*/
